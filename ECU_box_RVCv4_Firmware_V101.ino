@@ -30,7 +30,7 @@
 //#define SerialRTK Serial3               //RTK radio
 HardwareSerial* SerialGPS = &Serial3;   //Main postion receiver (GGA)
 HardwareSerial* SerialGPS2 = &Serial8;  //Dual heading receiver 
-HardwareSerial* SerialIMU = &Serial7;   //IMU BNO-085
+HardwareSerial* SerialIMU = &Serial5;   //IMU BNO-085
 
 constexpr int serial_buffer_size = 512;
 
