@@ -16,7 +16,7 @@
      122hz = 1
      3921hz = 2
 */
-#define PWM_Frequency 1
+#define PWM_Frequency 0
 
 //WAS Calabration
 float inputWAS[] =  { -50.00, -45.0, -40.0, -35.0, -30.0, -25.0, -20.0, -15.0, -10.0, -5.0, 0, 5.0, 10.0, 15.0, 20.0, 25.0, 30.0, 35.0, 40.0, 45.0, 50.0 };  //Input WAS do not adjust
